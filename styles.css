@@ -1,0 +1,73 @@
+/* Reset default margin and padding */
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set an attractive background for the header */
+header {
+  text-align: center;
+  background-color: #4A90E2;
+  color: #fff;
+  padding: 40px;
+}
+
+/* Style the main headline */
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* Style the subheadline in the header */
+p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+/* Style the About Me section */
+#about {
+  padding: 40px;
+  background-color: #F9D423;
+  color: #333;
+}
+
+#about h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Style the Portfolio section */
+#portfolio {
+  padding: 40px;
+  background-color: #333;
+  color: #fff;
+}
+
+#portfolio h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Style the Contact Me section */
+#contact {
+  padding: 40px;
+  background-color: #4A90E2;
+  color: #fff;
+}
+
+#contact h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+/* Style the footer */
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+footer p {
+  font-size: 14px;
+}
